@@ -1,8 +1,8 @@
 ---
 layout: default
-title: My Portfolio
+title: My Projects
 ---
 
-# My Data Science Projects
+# Data Science Projects
 
 - [Housing Price Prediction](https://github.com/gnlmano/Housing-Prices-Prediction)
