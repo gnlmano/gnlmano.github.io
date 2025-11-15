@@ -3,6 +3,7 @@ layout: default
 title: My Projects
 ---
 
-# Data Science Projects
+# Machine Learning Models
 
-- [Housing Price Prediction](https://github.com/gnlmano/Housing-Prices-Prediction)
+1. [Housing Price Prediction](https://github.com/gnlmano/Housing-Prices-Prediction)
+   
