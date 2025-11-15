@@ -9,12 +9,25 @@ Each project has its own dedicated page with methodology, feature engineering, m
 
 ---
 
-## 🏠 Housing Price Prediction
+## 🏠 Housing Price Prediction - Linear Models
 
 ![Housing Model](https://raw.githubusercontent.com/gnlmano/Housing-Prices-Prediction/refs/heads/main/image_github.jpg)   
 
-A regression project predicting residential property values using linear models, advanced feature engineering,  
+A linear regression project predicting residential property values using linear models, advanced feature engineering,  
 and location-based target encoding.
+
+👉 **[Read the full project](projects/housing.md)**  
+👉 **[View on GitHub](https://github.com/gnlmano/Housing-Prices-Prediction)**  
+
+---
+
+---
+
+## Prediction of Probability of Death With MIMIC Data
+
+![Housing Model](https://raw.githubusercontent.com/gnlmano/Housing-Prices-Prediction/refs/heads/main/image_github.jpg)   
+
+A classification project predicting the probability of fatality using patient-level data from the MIMIC dataset.
 
 👉 **[Read the full project](projects/housing.md)**  
 👉 **[View on GitHub](https://github.com/gnlmano/Housing-Prices-Prediction)**  
