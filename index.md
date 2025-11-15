@@ -9,7 +9,7 @@ Each project has its own dedicated page with methodology, feature engineering, m
 
 ---
 
-## 🏠 Housing Price Prediction - Linear Models
+## Housing Price Prediction - Linear Models
 
 ![Housing Model](https://raw.githubusercontent.com/gnlmano/Housing-Prices-Prediction/refs/heads/main/image_github.jpg)   
 
