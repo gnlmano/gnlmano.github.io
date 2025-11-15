@@ -25,7 +25,7 @@ and location-based target encoding.
 
 ## Prediction of Probability of Death With MIMIC Data
 
-![Housing Model](https://raw.githubusercontent.com/gnlmano/Housing-Prices-Prediction/refs/heads/main/image_github.jpg)   
+![Probability of Fatality](https://raw.githubusercontent.com/gnlmano/Probability-of-Death-KNN/refs/heads/main/image_github.jpg)   
 
 A classification project predicting the probability of fatality using patient-level data from the MIMIC dataset.
 
