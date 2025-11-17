@@ -43,4 +43,5 @@ The trained model is exposed via a FastAPI endpoint:
 - No need to preprocess data — the API handles all feature logic internally
 
 Live API Link: (https://housing-prices-prediction.onrender.com)
+
 **[View the full project on GitHub](https://github.com/gnlmano/Housing-Prices-Prediction)**  
