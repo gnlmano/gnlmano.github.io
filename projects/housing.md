@@ -33,6 +33,14 @@ Built a clean, modular ML workflow using:
 - `predict_model.py` for inference  
 - Saved model + encoders via joblib for production use  
 
-Currently working on **containerising and deploying** the model as an API endpoint.
+###  Deployment
 
+The trained model is exposed via a FastAPI endpoint:
+- Fully Dockerised
+- Deployed on Render
+- Supports real-time prediction
+- Includes a /sample endpoint for quick testing
+- No need to preprocess data — the API handles all feature logic internally
+
+Live API Link: (https://housing-prices-prediction.onrender.com)
 **[View the full project on GitHub](https://github.com/gnlmano/Housing-Prices-Prediction)**  
