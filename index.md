@@ -29,8 +29,8 @@ and location-based target encoding.
 
 A classification project predicting the probability of fatality using patient-level data from the MIMIC dataset.
 
-👉 **[Read the full project](projects/housing.md)**  
-👉 **[View on GitHub](https://github.com/gnlmano/Housing-Prices-Prediction)**  
+👉 **[Read the full project](projects/fatality.md)**  
+👉 **[View on GitHub](https://github.com/gnlmano/Probability-of-Death-KNN)**  
 
 ---
 
