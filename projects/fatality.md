@@ -44,9 +44,9 @@
 ---
 
 ### 4. Why KNN Fails for This Problem
-- Tuning repeatedly collapsed to **k = 1** with **weights='distance'**, meaning KNN essentially memorized the training data.  
+- Tuning repeatedly collapsed to low values of **k** with **weights='distance'** - a well known issue of KNN when there are high number of features, the nearest neighbours dominate the distance metric.  
 - High dimensionality, noisy vitals, and varied ICD-9 patterns made KNN unstable.  
-- In-sample performance was artificially perfect; CV looked acceptable; but test performance dropped sharply → clear overfitting.  
+- In-sample performance was artificially perfect; CV looked acceptable; but test performance dropped sharply i.e. clear overfitting.  
 - Given the setting (clinical tabular data + thousands of sparse diagnostic codes), KNN is not appropriate for ICU mortality risk modelling.  
 
 **Conclusion:** KNN was used to satisfy assignment requirements, but not selected as the final model.
