@@ -43,11 +43,5 @@ and location-based target encoding.
 ---
 
 
-## Hull Tactical
-![Hull Tactical - Market Prediction](https://raw.githubusercontent.com/gnlmano/hull-tactical/refs/heads/main/github_hull_tactical.jpg)
-My notebook for the "Hull Tactical - Market Prediction" Kaggle contest.
-
- 👉 **[Kaggle link](https://www.kaggle.com/competitions/hull-tactical-market-prediction/overview)**  
-
 
 *More projects coming soon…*
