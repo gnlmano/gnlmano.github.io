@@ -72,7 +72,7 @@ The goal was not exhaustive optimization but to demonstrate **systematic tuning 
 ### 6. Results
 The neural network achieved significantly lower performance than the gradient boosting model used in the main project.
 
-| Model | Test ROC-AUC |
+| Model | Test Accuracy |
 |------|-------------|
 | XGBoost | **0.93** |
 | Neural Network (Embeddings) | **~0.65** |
