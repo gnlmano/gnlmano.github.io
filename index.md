@@ -20,6 +20,16 @@ A classification project predicting the probability of fatality using patient-le
 
 ---
 
+## Prediction of Probability of Death - Neural Network Extension
+
+
+Extension of the probability of death project using neural networks.
+
+👉 **[Read the full project](projects/fatality_ANN.md)**  
+👉 **[View on GitHub](https://github.com/gnlmano/Probability-of-Death-ANN-Extension?tab=readme-ov-file)**  
+
+---
+
 ## Housing Price Prediction - Linear Models
 
 ![Housing Model](https://raw.githubusercontent.com/gnlmano/Housing-Prices-Prediction/refs/heads/main/image_github.jpg)   
