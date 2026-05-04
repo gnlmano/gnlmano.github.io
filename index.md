@@ -11,7 +11,6 @@ Each project has its own dedicated page with methodology, feature engineering, m
 
 ![Job Agent](https://raw.githubusercontent.com/gnlmano/job_agent/refs/heads/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg)   
 
-AI agent to help with job search and applications.
 👉 **[Read the full project](projects/jobagent.md)**  
 👉 **[View on GitHub](https://github.com/gnlmano/job_agent)**  
 
