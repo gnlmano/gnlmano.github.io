@@ -1,5 +1,5 @@
 ## Job application helper agent 
-![Mortality Prediction Model](https://raw.githubusercontent.com/gnlmano/Probability-of-Death-KNN/refs/heads/main/image_github.jpg)  
+![Mortality Prediction Model]([https://raw.githubusercontent.com/gnlmano/Probability-of-Death-KNN/refs/heads/main/image_github.jpg](https://raw.githubusercontent.com/gnlmano/job_agent/refs/heads/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg))  
 ### WIP
 
 ### Prediction project: probability of death
